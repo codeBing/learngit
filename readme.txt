@@ -1,2 +1,2 @@
-这是我的第一个git文件
+my first git file
 hello git
